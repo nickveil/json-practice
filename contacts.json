@@ -1,0 +1,60 @@
+{
+	"contacts" : [
+		{
+			"name" : "Contact 1",
+			"streetAddress" : "123 1st Ave.",
+			"city": "Lexington",
+			"state" : "KY",
+			"zipCode" : "40515",
+			"phoneNumber" : "(859) 234-5433",
+			"email" : "contact1@mail.com",
+			"commonalities" : [
+				"Sports",
+				"Cars",
+				"Kentucky Basketball"
+			]
+		},
+		{
+			"name" : "Contact 2",
+			"streetAddress" : "123 2st Ave.",
+			"city": "Lexington",
+			"state" : "KY",
+			"zipCode" : "40515",
+			"phoneNumber" : "(859) 154-7986",
+			"email" : "contact2@mail.com",
+			"commonalities" : [
+				"Fantasy Football",
+				"Music",
+				"Word working"
+			]			
+		},
+		{
+			"name" : "Contact 3",
+			"streetAddress" : "890 Hover St.",
+			"city": "Fargo",
+			"state" : "ND",
+			"zipCode" : "58402",
+			"phoneNumber" : "(701) 276-2301",
+			"email" : "contact3@mail.com",
+			"commonalities" : [
+				"Weighlifting",
+				"Minnesota Vikings",
+				"Ice Fishing"
+			]
+		},
+		{
+			"name" : "Contact 4",
+			"streetAddress" : "27 1st St.",
+			"city": "Norman",
+			"state" : "OK",
+			"zipCode" : "70415",
+			"phoneNumber" : "(605) 546-1984",
+			"email" : "contact3@mail.com",
+			"commonalities" : [
+				"Oklahoma Football",
+				"Kite Flying",
+				"Golf"
+			]
+		}
+	]
+}
