@@ -50,11 +50,89 @@
 			"state" : "OK",
 			"zipCode" : "70415",
 			"phoneNumber" : "(605) 546-1984",
-			"email" : "contact3@mail.com",
+			"email" : "contact4@mail.com",
 			"commonalities" : [
 				"Oklahoma Football",
 				"Kite Flying",
 				"Golf"
+			]
+		},
+		{
+			"name" : "Contact 5",
+			"streetAddress" : "7644 147 St.",
+			"city": "New York",
+			"state" : "NY",
+			"zipCode" : "10013",
+			"phoneNumber" : "(917) 989-2316",
+			"email" : "contact5@mail.com",
+			"commonalities" : [
+				"Tennis",
+				"Food"
+			]
+		},
+		{
+			"name" : "Contact 6",
+			"streetAddress" : "456 Waylan Blvd.",
+			"city": "Chicago",
+			"state" : "IL",
+			"zipCode" : "60067",
+			"phoneNumber" : "(773) 962-4978",
+			"email" : "contact6@mail.com",
+			"commonalities" : [
+				"Wind",
+				"Complaining about the weather"
+			]
+		},
+		{
+			"name" : "Contact 7",
+			"streetAddress" : "654 Mesedona Way.",
+			"city": "San Diego",
+			"state" : "CA",
+			"zipCode" : "92029",
+			"phoneNumber" : "(858) 173-6490",
+			"email" : "contact7@mail.com",
+			"commonalities" : [
+				"Beaches",
+				"Vacationing"
+			]
+		},
+		{
+			"name" : "Contact 8",
+			"streetAddress" : "23 Beaumont St.",
+			"city": "Las Vegas",
+			"state" : "NV",
+			"zipCode" : "10013",
+			"phoneNumber" : "(702)473-5400",
+			"email" : "contact8@mail.com",
+			"commonalities" : [
+				"Gambling",
+				"Blue Man Group"
+			]
+		},
+		{
+			"name" : "Contact 9",
+			"streetAddress" : "4528 Kirby Puckett Pl.",
+			"city": "Minneapolis",
+			"state" : "MN",
+			"zipCode" : "55408",
+			"phoneNumber" : "(613) 459-2006",
+			"email" : "contact9@mail.com",
+			"commonalities" : [
+				"Minnesota Twins",
+				"Baseball Stadiums"
+			]
+		},
+		{
+			"name" : "Contact 10",
+			"streetAddress" : "243 1st Ave N.",
+			"city": "Streeter",
+			"state" : "ND",
+			"zipCode" : "58483",
+			"phoneNumber" : "(701) 424-3317",
+			"email" : "contact10@mail.com",
+			"commonalities" : [
+				"Small Towns",
+				"History"
 			]
 		}
 	]
